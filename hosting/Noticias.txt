@@ -1,0 +1,90 @@
+<html>
+<head>
+<title>Capacitacion de Informatica</title>
+<style>
+h1 {
+color:Blue;
+text-align:center;
+text-decoration:underline;
+}
+h2 {
+font-family:times new roman;
+font-size:25px;
+font-style:italic;
+font-weight:bold;
+text-align:center;
+}
+p {
+font-family:verdana;
+font-size:14px;
+text-align:Center;
+}
+h3 {
+text-align:center;
+color:Cyan;
+background-color:GRAY;
+font-size:30px;
+}
+hidden {
+font-family:times new roman;
+font-size:4px;
+font-style:italic;
+font-weight:bold;
+text-align:right;
+}
+h4 {
+text-align:center;
+color:Navy;
+font-size:35px;
+}
+h5 {
+text-align:center;
+color:Cyan;
+background-color:GRAY;
+font-size:30px;
+}
+</style>
+</head>
+<body bgcolor="GRAY"text="white" link="Red" alink="Yellow" vlink="Green">
+<hr color="BLUE">
+<h1><img width="7%" Height="10%" src="Logo.jpg">Pagina Principal</h1>
+<hr color="BLUE">
+<h3>COBACH 26</h3>
+<h4>Visión</h4>
+<p>“Ser reconocida en el 2021 como institución del nivel Medio Superior certificada en el Sistema Nacional del Bachillerato, a través de procesos educativos de calidad, en vinculación con los padres de familia, el gobierno y la sociedad potosina."</p>
+<br>
+<h4>Misión</h4>
+<p>“Ofrecer Educación Media Superior de calidad, creativa, incluyente, con enfoque humano; Comprometida con los jóvenes potosinos en su formación integral y el desarrollo pleno de sus competencias."</p>
+<br>
+<h4>Nuestra Escuela</h4>
+<p>La filosofía institucional constituye en constructo conceptual sobre el deber ser del Colegio, es el marco en el que se deben desarrollar cada una de los procesos y acciones de los distintos agentes; como declaración deontológica de la postura del organismo, se constituye además en el compromiso que se adquiere ante la sociedad, por lo que representa una reflexión que hace la institución en su conjunto sobre sí misma y su papel en la formación de ciudadanos.</p>
+<br>
+<h4>Valores</h4>
+<p><li>Calidad : Mantener una educación media superior en mejora constante como agentes comprometidos con la sociedad en general y en particular con nuestra comunidad de alumnos.
+</li><BR>
+<li>Humanidad : Desempeñar el respeto a la dignidad humana de sus iguales y de toda persona que conforma la sociedad, en un marco de empatía y equidad como forjadores de jóvenes de carácter incluyente.
+</li><BR>
+<li>Compromiso : Ser perseverantes en nuestro trabajo individual y colectivo como educadores, para lograr la calidad y convivencia armónica que construyan un ambiente para la formación sólida.
+</li><BR>
+<li>Creatividad : Asumir la tarea de agentes educativos con la capacidad de comprender y transformar el mundo mediante prácticas innovadoras, en un ejercicio de autonomía y vanguardia tecnológica.</p>
+</li>
+<h4>Objetivos</h4>
+<p><li>Proporcionar un servicio educativo de calidad, a través del desarrollo de competencias que permitan a nuestros estudiantes la incorporación en instituciones competitivas de educación superior.
+</li><br>
+<li>Generar procesos que habiliten y certifiquen capacidades laborales socialmente productivas, conscientes y críticas.
+</li><br>
+<li>Innovar en la práctica educativa el uso de lenguajes y tecnologías de la información y la comunicación para el mejor rendimiento académico y formación de vanguardia.
+</li><br>
+<li>Desarrollar procesos de participación y responsabilidad social en un marco de valores, así como el cuidado de su entorno y preservación de la dignidad humana.
+</li><br></p>
+<h5><a href="ActPara.html"><h2>Actividades Paraescolares<br><img width="30%" height="40%" src="Para.jpg"></h2></a><h5>
+<h5><a href="Capacitaciones.html"><h2>Capacitaciones<br><img width="15%" height="20%" src="P2.gif"></h2></a></h5>
+<h5><a href="Noticias.html"><h2>Noticias<br><img width="30%" height="40%" src="P3.jpeg"></h2></a></h5>
+<hidden> </hidden>
+<br><p>Sitio Realizado por</p>
+<p> Mendoza Monreal José Israel</p>
+<p> Yinuel Rigoberto García Hernández</p>
+<p> Guillermo García Mendieta</p>
+<p> Sandra Cecilia Marin Lezama</p>
+</body>
+</html>
