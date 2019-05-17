@@ -1,0 +1,2 @@
+# informatica
+proyecto de informática
